@@ -1,49 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>C++ Projects Repository</title>
-</head>
+<h1 align="center">💻 C++ Projects</h1>
 
-<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+<h3 align="center">
+Core Programming • Object-Oriented Design • Console Applications
+</h3>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center">
+<p align="center">
+  <b>Logic-Oriented • Performance-Focused • System-Level Thinking</b>
+</p>
 
-    <table width="900" cellpadding="25" cellspacing="0" bgcolor="#ffffff" style="margin-top:50px;">
-        <tr>
-            <td>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Strong-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Console%20Apps-Projects-orange?style=for-the-badge"/>
+</p>
 
-                <h1 style="color:#0d6efd; margin-top:0;">
-                    C++ Projects Repository
-                </h1>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/gavneet0030/C-PLUS-PLUS-PROJECTS?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/gavneet0030/C-PLUS-PLUS-PROJECTS?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/gavneet0030/C-PLUS-PLUS-PROJECTS?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/gavneet0030/C-PLUS-PLUS-PROJECTS?style=for-the-badge"/>
+</p>
 
-                <p style="color:#666666; font-size:14px;">
-                    Beginner to Intermediate Level C++ Console Applications
-                </p>
+<p align="center">
+  <i>
+    Strengthening low-level programming skills through real-world C++ projects,
+    games, and management systems.
+  </i>
+</p>
 
-                <p style="font-size:16px; line-height:1.6;">
-                    This repository contains a collection of C++ console-based projects
-                    created to strengthen programming fundamentals and logical thinking.
-                    Each project focuses on practical implementation of core C++ concepts
-                    such as loops, conditional statements, functions, object-oriented
-                    programming, and file handling.
-                </p>
-
-                <p style="font-size:16px; line-height:1.6;">
-                    These projects are suitable for students, beginners, and developers
-                    who want to improve their C++ skills by working on real-world inspired
-                    mini applications and games.
-                </p>
-
-            </td>
-        </tr>
-    </table>
-
-</td>
-</tr>
-</table>
-
-</body>
-</html>
+<hr/>
