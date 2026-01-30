@@ -2,125 +2,48 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>C++ Projects</title>
+    <title>C++ Projects Repository</title>
 </head>
 
-<body>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
 
-<h1>C++ Projects Repository</h1>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
 
-<p>
-This repository contains multiple C++ console based projects.
-All projects are created to practice basic to intermediate level
-C++ programming concepts.
-</p>
+    <table width="900" cellpadding="25" cellspacing="0" bgcolor="#ffffff" style="margin-top:50px;">
+        <tr>
+            <td>
 
-<hr>
+                <h1 style="color:#0d6efd; margin-top:0;">
+                    C++ Projects Repository
+                </h1>
 
-<h2>Repository Details</h2>
+                <p style="color:#666666; font-size:14px;">
+                    Beginner to Intermediate Level C++ Console Applications
+                </p>
 
-<ul>
-    <li>Language: C++</li>
-    <li>Project Type: Console Applications</li>
-    <li>Level: Beginner to Intermediate</li>
-    <li>Compiler: GCC / g++</li>
-</ul>
+                <p style="font-size:16px; line-height:1.6;">
+                    This repository contains a collection of C++ console-based projects
+                    created to strengthen programming fundamentals and logical thinking.
+                    Each project focuses on practical implementation of core C++ concepts
+                    such as loops, conditional statements, functions, object-oriented
+                    programming, and file handling.
+                </p>
 
-<hr>
+                <p style="font-size:16px; line-height:1.6;">
+                    These projects are suitable for students, beginners, and developers
+                    who want to improve their C++ skills by working on real-world inspired
+                    mini applications and games.
+                </p>
 
-<h2>Projects List</h2>
+            </td>
+        </tr>
+    </table>
 
-<table border="1" cellpadding="8" cellspacing="0">
-    <tr>
-        <th>Serial No</th>
-        <th>Project Name</th>
-        <th>Description</th>
-    </tr>
-
-    <tr>
-        <td>1</td>
-        <td>Bank Management System</td>
-        <td>Handles bank account operations</td>
-    </tr>
-
-    <tr>
-        <td>2</td>
-        <td>Student Management System</td>
-        <td>Manages student records</td>
-    </tr>
-
-    <tr>
-        <td>3</td>
-        <td>Login and Registration System</td>
-        <td>User authentication using files</td>
-    </tr>
-
-    <tr>
-        <td>4</td>
-        <td>CGPA Calculator</td>
-        <td>Calculates CGPA</td>
-    </tr>
-
-    <tr>
-        <td>5</td>
-        <td>Snake Game</td>
-        <td>Classic snake game</td>
-    </tr>
-
-    <tr>
-        <td>6</td>
-        <td>Tic Tac Toe</td>
-        <td>Two player game</td>
-    </tr>
-
-    <tr>
-        <td>7</td>
-        <td>Rock Paper Scissors</td>
-        <td>Game against computer</td>
-    </tr>
-
-    <tr>
-        <td>8</td>
-        <td>Hangman Game</td>
-        <td>Word guessing game</td>
-    </tr>
-
-    <tr>
-        <td>9</td>
-        <td>Scientific Calculator</td>
-        <td>Performs mathematical calculations</td>
-    </tr>
+</td>
+</tr>
 </table>
-
-<hr>
-
-<h2>How to Compile and Run</h2>
-
-<p>Use the following commands:</p>
-
-<pre>
-git clone https://github.com/gavneet0030/C-PLUS-PLUS-PROJECTS.git
-cd C-PLUS-PLUS-PROJECTS
-g++ filename.cpp -o output
-./output
-</pre>
-
-<hr>
-
-<h2>Author</h2>
-
-<p>
-Name: Gavneet Singh<br>
-GitHub: https://github.com/gavneet0030
-</p>
-
-<hr>
-
-<h2>License</h2>
-
-<p>
-This repository is for learning purposes.
-</p>
 
 </body>
 </html>
