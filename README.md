@@ -27,6 +27,32 @@ Core Programming • Object-Oriented Design • Console Applications
     Strengthening low-level programming skills through real-world C++ projects,
     games, and management systems.
   </i>
+
+
+  <h2>📌 About This Repository</h2>
+
+<p>
+This repository is a comprehensive collection of C++ projects focused on
+building strong foundations in system-level programming and problem-solving.
+Each project is designed to reinforce core concepts of C++ through practical,
+hands-on implementation rather than theoretical examples.
+</p>
+
+<p>
+The projects range from interactive games to real-world inspired management
+systems, covering essential programming paradigms such as object-oriented
+design, file handling, memory management basics, and structured logic flow.
+All programs are implemented as standalone console applications to emphasize
+clarity, performance, and control over system resources.
+</p>
+
+<p>
+This repository is ideal for students, beginners, and aspiring software
+engineers who want to strengthen their understanding of C++ by working on
+logic-driven and algorithm-focused projects that reflect real development
+scenarios.
+</p>
+
 </p>
 
 <hr/>
